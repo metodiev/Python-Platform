@@ -1,0 +1,2 @@
+Diferences between Python version 2 and 3 are frapant
+python -V - check python version on current PC
